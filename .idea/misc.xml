@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/button_background.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/best_sellers_item_view_layout.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/category_item_view.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/category_item_view_layout.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/flash_deals_item_view_layout.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/fragment_sign_in.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/fragment_sign_up.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/more_to_love_item_view_layout.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/offers_item_view_layout.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/offers_with_brands_item_view_layout.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/snipper_layout_item.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/special_products_item_view_layout.xml" value="0.35833333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
